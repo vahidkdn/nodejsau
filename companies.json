@@ -78,4 +78,17 @@
   "hiring": "http://www.seek.com.au/Job/27126946",
   "location": "Melbourne"
 }
+{
+  "name": "vClass",
+  "logo": "https://www.vclass.com.au/_layout/images/logo.png",
+  "url":  "https://www.vclass.com.au",
+  "description": "Real time collaboration using pen and paper",
+  "githubUrl": "",
+  "githubLogin": "",
+  "twitter": "",
+  "hiring": "http://www.seek.com.au/job/28794920?pos=1&type=standout",
+  "location": "Sydney"
+}
+
+
 ]
